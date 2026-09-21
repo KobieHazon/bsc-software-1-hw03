@@ -30,7 +30,7 @@ The regression harness exercises every recovered public method.
 
 ## Repository Structure
 
-- `assignment/MISSING_HANDOUT.md`: provenance note explaining that the exact matching handout was not recovered
+- `assignment/MISSING_HANDOUT.md`: background note explaining that the exact matching handout was not recovered
 - `src/il/ac/tau/cs/sw1/hw3/`: my recovered Java implementation, maintained for current toolchains
 - `tests/RunHw3Checks.java`: maintained Java regression harness
 
